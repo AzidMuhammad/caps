@@ -14,7 +14,7 @@
     "@tabler/icons-react": "^3.19.0",
     "@types/react-slick": "^0.23.13",
     "@types/slick-carousel": "^1.6.40",
-    "apexcharts": "^3.45.2",
+    "apexcharts": "^4.3.0",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "clsx": "^2.1.1",
